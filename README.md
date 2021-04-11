@@ -1,1 +1,1 @@
-# Cricket-Simulator
+# Cricket-Scorer
